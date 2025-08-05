@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625132868638",
+    "project_id": "libraryhaven-ef8ec",
+    "storage_bucket": "libraryhaven-ef8ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625132868638:android:97fe2f809f47f046c08a0f",
+        "android_client_info": {
+          "package_name": "com.example.libraryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKC6gef42qBvh4AQL5f4pteKBemwhDY3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
